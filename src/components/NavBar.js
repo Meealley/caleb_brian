@@ -182,7 +182,7 @@ const NavBar = () => {
 
             <button
               onClick={modeChangeHandler}
-              className={`ml-4 flex items-center md:h-8 rounded-full p-1 ${
+              className={`ml-4 flex items-center rounded-full p-1 ${
                 mode === "light" ? "bg-dark text-light" : "bg-light text-dark"
               }`}
             >
