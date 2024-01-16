@@ -51,21 +51,21 @@ const about = () => {
                 About Me
               </h2>
               <p className="md:text-[16px] sm:text-[15px]">
-                I'm a young man with lofty goals. I'm the type of person who
+                I am a young man with lofty goals. I am the type of person who
                 gets along well with clients and my superiors. I have a friendly
                 and professional demeanour, and I work hard and creatively. I
-                pay close attention to my audience's needs as I speak, and I
-                strive to satisfy my clients. I'm looking for a position as a
+                pay close attention to my audiences needs as I speak, and I
+                strive to satisfy my clients. I`m looking for a position as a
                 marketing consultant where I can put my professional and
-                technical skills that I've acquired through previous work
-                experiences in the field to use. I'm a motivated, flexible, and
+                technical skills that I have acquired through previous work
+                experiences in the field to use. I am a motivated, flexible, and
                 responsible data analyst with expertise in website design and
                 SEO. I operate methodically, put the needs of the customer
                 first, and have a strong desire to network and see things
                 through to completion.
               </p>
               <p className="md:text-[16px] sm:text-[15px]">
-                A committed community manager having 4 years' experience in
+                A committed community manager having 4 years experience in
                 management. Promotes exceptional skills in customer service,
                 policy and procedure oversight, and facility security measures.
                 Improves properties and streamlines operations for efficiency.

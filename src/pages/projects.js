@@ -23,6 +23,7 @@ const FeaturedProject = ({ type, title, summary, img, link, discordLink }) => {
         className="w-[20%] lg:w-full md:w-full p-2 cursor-pointer overflow-hidden rounded-lg"
       >
         <Image
+          alt="image"
           src={img}
           title={title}
           className="w-[30%] h-auto rounded-lg"
@@ -80,7 +81,11 @@ const Project = ({ title, type, img, link, discordLink }) => {
         </Link>
         {/* <p>{summary}</p> */}
         <div className="flex items-center my-2 ">
-          <Link href={discordLink} className="object-cover md:hidden" target="_blank">
+          <Link
+            href={discordLink}
+            className="object-cover md:hidden"
+            target="_blank"
+          >
             <DiscordIcon />
           </Link>
           <Link
