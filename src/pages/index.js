@@ -48,15 +48,15 @@ export default function Home() {
               </p>
               <div className="flex items-center self-start mt-2 lg:self-center">
                 <Link
-                  href={"/dummy.pdf"}
+                  href={"https://discord.com/users/963276447080923146"}
                   target="_blank"
                   className="flex tracking-wider items-center bg-dark dark:bg-light dark:text-dark dark:hover:bg-dark dark:hover:text-light dark:hover:border-light text-light p-2.5 px-6 rounded-lg text-lg md:text-sm sm:text-xs font-semibold hover:bg-light hover:text-dark border border-solid border-transparent hover:border-dark"
                   download={true}
                 >
-                  Resume
+                  Discord
                 </Link>
                 <Link
-                  href="mailto:contact@gmail.com"
+                  href="mailto:briancaleb001@gmail.com"
                   target="_blank"
                   className="ml-4 text-lg  md:text-sm sm:text-xs font-medium capitalize text-dark underline dark:text-light"
                 >

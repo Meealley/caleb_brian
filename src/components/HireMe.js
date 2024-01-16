@@ -11,7 +11,7 @@ const HireMe = () => {
         />
 
         <Link
-          href="mailto:abc@gmail.com"
+          href="https://discord.com/users/963276447080923146"
           className="flex items-center justify-center absolute left-[34%] top-[34%] -translate-x-2 -translate-y-2 bg-dark text-light shadow-md border border-solid border-dark w-20 h-20 rounded-full font-semibold hover:bg-light hover:text-dark 
           dark:text-dark dark:bg-light dark:hover:text-light dark:hover:border-light md:w-10 md:text-[9px] md:h-10
           "
