@@ -93,7 +93,7 @@ const NavBar = () => {
 
         <nav className="flex items-center justify-center flex-wrap">
           <motion.a
-            href={"https://twitter.com"}
+            href={"https://twitter.com/CalebNFTGod"}
             target="_blank"
             whileHover={{ y: -2 }}
             className="w-6 mr-3"
@@ -101,7 +101,7 @@ const NavBar = () => {
             <TwitterIcon />
           </motion.a>
           <motion.a
-            href={"https://discord.com"}
+            href={"https://discord.com/users/963276447080923146"}
             target="_blank"
             whileHover={{ y: -2 }}
             className="w-6 ml-3"
@@ -164,7 +164,7 @@ const NavBar = () => {
 
           <nav className="flex items-center justify-center flex-wrap">
             <motion.a
-              href={"https://twitter.com"}
+              href={"https://twitter.com/CalebNFTGod"}
               target="_blank"
               whileHover={{ y: -2 }}
               className="w-6 mr-3"
@@ -172,7 +172,7 @@ const NavBar = () => {
               <TwitterIcon />
             </motion.a>
             <motion.a
-              href={"https://discord.com"}
+              href={"https://discord.com/users/963276447080923146"}
               target="_blank"
               whileHover={{ y: -2 }}
               className="w-6 ml-3"
