@@ -1,5 +1,10 @@
 import React, { useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+// import exp1 from "../../assets/exp1.jpg";
+// import exp2 from "../../assets/exp2.jpg";
+// import exp3 from "../../assets/exp3.jpg";
+// import exp4 from "../../assets/exp4.jpg";
+// import Image from "next/image";
 import {
   faCircleChevronLeft,
   faCircleChevronRight,
@@ -25,6 +30,18 @@ const galleryImage = [
   {
     img: "https://davider.carrd.co/assets/images/gallery04/613bcaa2.jpg?v=67180c83",
   },
+  // {
+  //   img: 'https://ibb.co/L0KQVSm',
+  // },
+  // {
+  //   img: exp2,
+  // },
+  // {
+  //   img: exp3,
+  // },
+  // {
+  //   img: exp4,
+  // },
 ];
 
 const SlideGallery = () => {
@@ -100,7 +117,7 @@ const SlideGallery = () => {
                   <img
                     className="w-full max-h-[300px]"
                     src={slide.img}
-                    alt="sl"
+                    alt="gallery"
                   />
                 </div>
               );

@@ -9,6 +9,10 @@ import project1 from "../../public/images/projects/slotie-guard.jpeg";
 import project2 from "../../public/images/projects/drippie-zombie.jpeg";
 import project3 from "../../public/images/projects/beatblock.jpeg";
 import project4 from "../../public/images/projects/babylion.jpeg";
+import exp1 from "../assets/exp1.jpg";
+import exp2 from "../assets/exp2.jpg";
+import exp3 from "../assets/exp3.jpg";
+import exp4 from "../assets/exp4.jpg";
 import { motion } from "framer-motion";
 import TransitionEffect from "@/components/TransitionEffect";
 
@@ -120,8 +124,8 @@ const projects = () => {
                 img={project1}
                 type={"Community Manager"}
                 title="Slotie Guard"
-                link="https://google.com"
-                discordLink="https://google.com"
+                link=""
+                discordLink="https://discord.com/users/963276447080923146"
                 summary="A slotie nft guard to keep watch of all the activities"
               />
             </div>
@@ -130,8 +134,8 @@ const projects = () => {
                 img={project1}
                 type={"Community Manager"}
                 title="Slotie Guard"
-                link="https://google.com"
-                discordLink="https://google.com"
+                link=""
+                discordLink="https://discord.com/users/963276447080923146"
               />
             </div>
             <div className="col-span-6 sm:col-span-12 ">
@@ -139,8 +143,8 @@ const projects = () => {
                 img={project2}
                 type={"Community Manager"}
                 title="Drippie Zombie 🧟‍♂️"
-                link="https://google.com"
-                discordLink="https://google.com"
+                link=""
+                discordLink="https://discord.com/users/963276447080923146"
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
@@ -148,8 +152,8 @@ const projects = () => {
                 img={project3}
                 type={"Community Manager"}
                 title="BeatLock"
-                link="https://google.com"
-                discordLink="https://google.com"
+                link=""
+                discordLink="https://discord.com/users/963276447080923146"
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
@@ -157,8 +161,44 @@ const projects = () => {
                 img={project4}
                 type={"Community Manager"}
                 title="Baby Lion"
-                link="https://google.com"
-                discordLink="https://google.com"
+                link=""
+                discordLink="https://discord.com/users/963276447080923146"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12">
+              <Project
+                img={exp1}
+                type={"Community Manager"}
+                title="ULTRADE ORG"
+                link=""
+                discordLink="https://discord.com/users/963276447080923146"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12">
+              <Project
+                img={exp2}
+                type={"Community Manager"}
+                title="COSMIC WIRE INC"
+                link=""
+                discordLink="https://discord.com/users/963276447080923146"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12">
+              <Project
+                img={exp3}
+                type={"Community Manager"}
+                title="ZIVOE"
+                link=""
+                discordLink="https://discord.com/users/963276447080923146"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12">
+              <Project
+                img={exp4}
+                type={"Community Manager"}
+                title="CAESARVERSE"
+                link=""
+                discordLink="https://discord.com/users/963276447080923146"
               />
             </div>
           </div>
