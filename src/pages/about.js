@@ -55,7 +55,7 @@ const about = () => {
               </h2>
               <p className="md:text-[16px] sm:text-[15px]">
                 
-                I am a Digital Marketer by Profession with almost 6 years of
+                Hi, my name is Caleb Brian, I am a Digital Marketer by Profession with almost 6 years of
                 experience in the field. I do mainly Discord community
                 management, Web design, Social media marketing and management,
                 SEO, Klaviyo and virtual assistance. I have been allowed to
